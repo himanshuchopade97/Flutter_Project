@@ -6,4 +6,4 @@ It is an app which can book your ride to Moon.
 
 Product Image:
 
-![Product Image](go_moon/FinalProduct/go_moon.jpg)
+![Product Image](FinalProduct/go_moon.jpg)
