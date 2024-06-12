@@ -1,6 +1,6 @@
 # Flutter App Collection
 
-Welcome to the **Flutter App Collection** repository! This repository contains all the applications I develop using Flutter.
+Welcome to the **Flutter App Collection** repository! This repository contains all the applications I developed using Flutter.
 
 ## Contents
 
