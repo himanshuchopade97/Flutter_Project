@@ -1,7 +1,4 @@
 * linguist-vendored
 *.dart linguist-vendored=false
-*.xml linguist-vendored=false
-*.gradle linguist-vendored=false
-*.yaml linguist-vendored=false
 *.swift linguist-vendored=false
 *.cmake linguist-vendored=false
