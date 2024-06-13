@@ -15,4 +15,4 @@ Welcome to the **Flutter App Collection** repository! This repository contains a
 - **Networking**: Integration with REST APIs and data handling.
 - **Persistence**: Local storage solutions using SQLite and shared preferences. -->
 
- [![HitCount](https://hits.dwyl.com/himanshuchopade97/Flutter_Project.svg?style=flat-square&show=unique)](http://hits.dwyl.com/himanshuchopade97/Flutter_Project)
+ <!-- [![HitCount](https://hits.dwyl.com/himanshuchopade97/Flutter_Project.svg?style=flat-square&show=unique)](http://hits.dwyl.com/himanshuchopade97/Flutter_Project) -->
