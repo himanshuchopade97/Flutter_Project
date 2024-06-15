@@ -6,7 +6,7 @@
 - It maintains the state of data, that is, even if you close application and reopen, the to-do status remains the same.
 
 ## Working Video
-[Click here to watch the demo video](FinalProduct/Taskly_Working.gif)
+[![Taskly Demo](https://img.youtube.com/vi/sAka4Yq2RmA/0.jpg)](https://youtube.com/shorts/sAka4Yq2RmA?feature=share)
 
 ## Product Image
 ![Taskly Screenshot 1](FinalProduct/taskly1.png),
