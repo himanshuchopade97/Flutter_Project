@@ -1,4 +1,4 @@
-# taskly
+# Taskly
 
 - Taskly is a simple and intuitive to-do app built with Flutter.
 - It helps you manage your tasks efficiently and stay organized.
