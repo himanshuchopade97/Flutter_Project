@@ -1,9 +1,12 @@
+// ignore_for_file: no_leading_underscores_for_local_identifiers
+
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:taskly/models/task.dart';
 
 class HomePage extends StatefulWidget {
   // HomePage();
+  // ignore: use_super_parameters
   const HomePage({Key? key}) : super(key: key);
 
   @override
@@ -13,6 +16,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+  // ignore: unused_field
   late double _deviceHeight, _deviceWidth;
 
   String? _newTaskContent;
