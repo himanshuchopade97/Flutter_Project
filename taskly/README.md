@@ -6,9 +6,9 @@
 - It maintains the state of data, that is, even if you close application and reopen, the to-do status remains the same.
 
 ## Product Image
-![Product Image](FinalProduct/taskly1.jpg)
-![Product Image](FinalProduct/taskly2.jpg)
-![Product Image](FinalProduct/taskly3.jpg)
-![Product Image](FinalProduct/taskly4.jpg)
+![Product Image](FinalProduct/taskly1.jpg),
+![Product Image](FinalProduct/taskly2.jpg),
+![Product Image](FinalProduct/taskly3.jpg),
+![Product Image](FinalProduct/Taskly4.jpg)
 
 
