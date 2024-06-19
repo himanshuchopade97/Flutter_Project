@@ -85,7 +85,7 @@ class _HomePageState extends State<HomePage>
           ),
           child: const Center(
             child: Text(
-              "Basic",
+              "Press",
               style: TextStyle(color: Colors.white),
             ),
           ),
