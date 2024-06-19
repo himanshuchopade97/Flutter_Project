@@ -1,16 +1,7 @@
-# animdo
+# Animdo
 
-A new Flutter project.
+This is just a demo app to learn button animations, Background enlarge animation, and rotating star Animation with different techniques like Animation Controller.
 
-## Getting Started
+# Product Image:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Product Image](FinalProduct/animdo_final.png)
