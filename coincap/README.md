@@ -1,16 +1,15 @@
-# coincap
+# CoinCap
 
-A new Flutter project.
+- CoinCap is a Flutter application that allows users to view information about different cryptocurrencies.
+- The app fetches data from the CoinGecko API and displays the current rate, percentage change in 24 hours, and a description of selected cryptocurrencies.
+- Additionally, users can double-tap on the crypto coin icon to view its exchange rates in different currencies.
+- All the information is dynamically rendered by fetching data from REST API.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Product Image
+![Coincap Screenshot 1](FinalProduct/1.png),
+![Coincap Screenshot 2](FinalProduct/2.png),
+![Coincap Screenshot 3](FinalProduct/3.png),
+![Coincap Screenshot 4](FinalProduct/4.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
