@@ -4,4 +4,4 @@ This is just a demo app to learn button animations, Background enlarge animation
 
 # Product Image:
 
-![Product Image](FinalProduct/animdo_final.png)
+![Product Image](FinalProduct/animdo.png)
