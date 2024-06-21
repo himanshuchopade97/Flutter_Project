@@ -4,10 +4,10 @@ Welcome to the **Flutter App Collection** repository! This repository contains a
 
 ## Contents
 
-- **#GoMoon**: A sample app featuring a travel booking interface to Moon with custom dropdown menus and responsive design.
+- **GoMoon**: A sample app featuring a travel booking interface to Moon with custom dropdown menus and responsive design.
 - **Taskly** : An application which is a To-do app, stores the data in a database known as "Hive", uses Stateful Widget and maintains the state of data.
-- **Taskly** : An application which is a To-do app, stores the data in a database known as "Hive", uses Stateful Widget and maintains the state of data.
-- **Taskly** : An application which is a To-do app, stores the data in a database known as "Hive", uses Stateful Widget and maintains the state of data.
+- **Animdo** : This is just a demo app to learn button animations, Background enlarge animation, and rotating star Animation with different techniques like Animation Controller.
+- **CoinCap** : CoinCap is an application that allows users to view information about different cryptocurrencies.
  
 ## Features
 
