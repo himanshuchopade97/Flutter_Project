@@ -1,7 +1,7 @@
 # Flutter App Collection
 
 Welcome to the **Flutter App Collection** repository! This repository contains all the applications I developed using Flutter.
-
+(Individual README maintained for every app)
 ## Contents
 
 - **GoMoon**: A sample app featuring a travel booking interface to Moon with custom dropdown menus and responsive design.
