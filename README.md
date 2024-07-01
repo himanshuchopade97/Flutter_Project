@@ -21,4 +21,4 @@ Welcome to the **Flutter App Collection** repository! This repository contains a
 - **Provider Package**: Used the provider package for state management and to efficiently re-render the UI instead of using Stateful Widgets.
 <!-- - **Persistence**: Local storage solutions using SQLite and shared preferences. -->
 
- <!-- [![HitCount](https://hits.dwyl.com/himanshuchopade97/Flutter_Project.svg?style=flat-square&show=unique)](http://hits.dwyl.com/himanshuchopade97/Flutter_Project) -->
+  [![HitCount](https://hits.dwyl.com/himanshuchopade97/Flutter_Project.svg?style=flat-square&show=unique)](http://hits.dwyl.com/himanshuchopade97/Flutter_Project) 
