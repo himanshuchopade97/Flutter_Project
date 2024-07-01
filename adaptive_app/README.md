@@ -1,16 +1,9 @@
-# adaptive_app
+# Adaptive App
 
-An Adaptive app
+An Adaptive app in which an app can run on Windows Browser, Android, iOS as well. It displays playlists and videos in playlist from FlutterDev playlists
 
-## Getting Started
+## Product Image
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Adaptive_App_Screenshot_1](FinalProduct/1.png),
+![Adaptive_App_Screenshot_2](FinalProduct/2.png),
+![Adaptive_App_Screenshot_3](FinalProduct/3.png),
