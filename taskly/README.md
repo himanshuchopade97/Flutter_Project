@@ -7,7 +7,7 @@
 
 ## Working Video
 - Click here!
-- [![Taskly Demo](https://img.youtube.com/vi/sAka4Yq2RmA/0.jpg)](https://youtube.com/shorts/sAka4Yq2RmA?feature=share)
+- [![Taskly Demo]](https://youtube.com/shorts/sAka4Yq2RmA?feature=share)
 
 ## Product Image
 ![Taskly Screenshot 1](FinalProduct/taskly1.png),
