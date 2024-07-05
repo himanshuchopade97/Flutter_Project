@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+// ignore: unused_import
 import 'package:frivia/pages/game_page.dart';
 import 'package:frivia/pages/home_page.dart';
 

@@ -1,7 +1,10 @@
+// ignore_for_file: use_key_in_widget_constructors, no_leading_underscores_for_local_identifiers
+
 import 'package:flutter/material.dart';
 import 'package:frivia/providers/game_page_provider.dart';
 import 'package:provider/provider.dart';
 
+// ignore: must_be_immutable
 class GamePage extends StatelessWidget {
 final String difficultyLevel;
 
