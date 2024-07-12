@@ -8,4 +8,3 @@
 ![IBMI Screenshot 1](FinalProduct/1.png),
 ![IBMI Screenshot 2](FinalProduct/2.png),
 ![IBMI Screenshot 3](FinalProduct/3.png),
-![IBMI Screenshot 4](FinalProduct/4.png)
