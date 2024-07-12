@@ -9,7 +9,7 @@ Welcome to the **Flutter App Collection** repository! This repository contains a
 - **Animdo** : This is just a demo app to learn button animations, Background enlarge animation, and rotating star Animation with different techniques like Animation Controller.
 - **CoinCap** : CoinCap is an application that allows users to view information about different cryptocurrencies.
 - **Frivia** : Frivia is an application which geenrates random 10 trivia questions based on the diffuclty selected on home page and gives instand feedback of answers with final score in the end.
-- 
+- **IBMI** : IBMI is an iOS-styled application using Cupertino styling, and saving last BMI using "saved_preference" and showing it in history page.
  
 ## Features
 

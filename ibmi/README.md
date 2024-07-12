@@ -1,16 +1,10 @@
-# ibmi
+# IBMI
 
-A new Flutter project.
+- IBMI is an engaging and beautiful IBMI calculation app developed with Flutter.
+- It is based on Cupertino-styling.
+- It uses sliding toggle and also stores last BMI calculated on history page.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Product Image
+![IBMI Screenshot 1](FinalProduct/1.png),
+![IBMI Screenshot 2](FinalProduct/2.png),
+![IBMI Screenshot 3](FinalProduct/3.png),
