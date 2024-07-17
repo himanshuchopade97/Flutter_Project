@@ -1,5 +1,6 @@
 // ignore_for_file: sort_child_properties_last, use_key_in_widget_constructors, sized_box_for_whitespace, no_leading_underscores_for_local_identifiers
 import 'dart:math';
+import 'package:ibmi/utils/calculator.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -261,7 +262,7 @@ class _BMIPageState extends State<BMIPage> {
         child: const Text("Calculate BMI"),
         onPressed: () {
           if (_height > 0 && _weight > 0 && _age > 0) {
-            double _bmi = (_weight / pow(_height, 2)) * 703;
+            double _bmi = calculateBMI(_height, _weight);
             _showResultDialog(_bmi);
           }
         },

@@ -1,10 +1,13 @@
 // ignore_for_file: unnecessary_import, no_leading_underscores_for_local_identifiers
 
+import 'package:dio/dio.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:ibmi/pages/main_page.dart';
+import 'package:ibmi/utils/calculator.dart';
 
-void main() {
+void main() async{
+  await calcualteBMIAsync(Dio());
   runApp(const MyApp());
 }
 
