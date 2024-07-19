@@ -1,3 +1,5 @@
+// ignore_for_file: unused_import, no_leading_underscores_for_local_identifiers
+
 import 'dart:convert';
 import 'dart:math';
 import 'package:dio/dio.dart';
