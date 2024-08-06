@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/adaptive_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/adaptive_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/adaptive_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/animdo/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/animdo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/animdo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/coincap/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/coincap/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/coincap/build" />
+      <excludeFolder url="file://$MODULE_DIR$/frivia/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/frivia/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/frivia/build" />
+      <excludeFolder url="file://$MODULE_DIR$/go_moon/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/go_moon/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/go_moon/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ibmi/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ibmi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ibmi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/taskly/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/taskly/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/taskly/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
